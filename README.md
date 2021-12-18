@@ -1,5 +1,5 @@
 
- <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, visitor</h1>
+ <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, visitor</h1>
 <div style="text-align:center;">  Welcome to my profile, if you want to contact with me please use this email: <strong>efemesudiyeli@gmail.com</strong><div> <br>
   
 <a href="#">

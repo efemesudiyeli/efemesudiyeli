@@ -29,7 +29,7 @@
 
 📫You can reach me at efemesudiyeli0@gmail.com
 
-⚡ Fun fact  - I like Music Producing and 3D Art
+⚡ Fun fact  - I like Music Producing and Art
 
 <br>
 
@@ -192,7 +192,7 @@
 <br><br>
 
 <a href="https://github.com/efemesudiyeli">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkarda&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkarda&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Efe's GitHub Contributions Graph"/>
 </a>
 <br><br>
 <!--
@@ -241,42 +241,4 @@
 </details>
 
   
-<!--
-A sample of my recent articles:
-<!- BLOG-POST-LIST:START ->
-- [Python f-strings Are More Powerful Than You Might Think](https://bit.ly/3uETfbi)
-- [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
-- [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
-<!- BLOG-POST-LIST:END ->
--->
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (My LinkedIn Profile)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/
-[2]: https://github.com/efemesudiyeli
-[3]: https://www.linkedin.com/in/efemesudiyeli/
-
-
-<!-- default README.md -->
-<!--
-- 👋 Hi, I’m Rahul Karda
-- 👀 I’m interested in Full Stack Web Development and other skills
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on different web dev projects
-- 📫 How to reach me - You can contact me on rahulkarda2002@gmail.com
--->

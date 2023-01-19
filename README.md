@@ -14,8 +14,6 @@
  
  <p align="left">My name is Efe Mesudiyeli and I'm a Frontend Developer.
   
-  I'm from Turkey, living in Ankara and currently studying Computer Programming.
-  
 
 </p>
 

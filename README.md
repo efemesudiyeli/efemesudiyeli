@@ -21,15 +21,11 @@
 
 
 
-🌱 I’m currently learning React
+🌱 I’m currently learning React.js
 
 👯 I’m looking to collaborate on different projects
 
-📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
-
 📫You can reach me at efemesudiyeli0@gmail.com
-
-⚡ Fun fact  - I like Music Producing and Art
 
 <br>
 

@@ -23,7 +23,7 @@
 
 👯 I’m looking to collaborate on different projects
 
-📫You can reach me at efemesudiyeli0@gmail.com
+📫You can reach me at efemesudiyeli@gmail.com
 
 <br>
 

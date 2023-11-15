@@ -9,23 +9,12 @@
 
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
  <!-- Profile views -->
- <img src="https://gpvc.arturio.dev/efemesudiyeli" align="center">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
  <p align="left">My name is Efe Mesudiyeli and I'm a Frontend Developer.
   
 
 </p>
-
-
-
-🌱 I’m currently learning React.js
-
-👯 I’m looking to collaborate on different projects
-
-📫You can reach me at efemesudiyeli@gmail.com
-
-<br>
 
 <!--# Projects ⚙️
  <h1 align="center">Projects</h1> 

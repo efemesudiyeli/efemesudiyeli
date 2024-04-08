@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate C# and Unity Game Developer</h3>
 
-- 🌱 I’m currently learning **Unity, and C#**
+- 🌱 I’m currently learning **Game Development (Unity, C#) & iOS Development (SwiftUI, Swift)**
 
 - 👯 I’m looking to collaborate on **game-jams**
 
@@ -30,6 +30,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+
 </p>
 
 <p align= "center">

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Efe <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate C# and Unity Game Developer</h3>
+<h3 align="center">A passionate iOS Developer </h3>
 
-- 🌱 I’m currently learning **Game Development (Unity, C#) & iOS Development (SwiftUI, Swift)**
+- 🌱 I’m currently learning **iOS Development (SwiftUI, Swift)**
 
-- 👯 I’m looking to collaborate on **game-jams**
+- 👯 I’m looking to collaborate on **SwiftUI projects**
 
 - 📫 How to reach me: **efemesudiyeli@gmail.com**
 
-- ⚡ What I like to do: **I like so much gaming, researching, creating content, and coding of course**
+- ⚡ What I like to do: **I like so much gaming, researching, making apps, and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -22,16 +22,13 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-
 </p>
 
 <p align= "center">

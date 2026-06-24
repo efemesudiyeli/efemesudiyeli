@@ -4,7 +4,7 @@
 
 
 * 🌍  I'm based in Ankara / Turkey 
-* 🖥️  See my portfolio at [efemesudiyeli.dev](http://efemesudiyeli.dev) 
+* 🖥️  See my portfolio at [efemesudiyeli.com](http://efemesudiyeli.com) 
 * ✉️  You can contact me at [efemesudiyeli@gmail.com](mailto:efemesudiyeli@gmail.com) 
 * 🤝  I'm open to collaborating on interesting projects
 
